@@ -13,3 +13,6 @@ return data in JSON format
 /ip <- ip of requestor/client
 /all <- show os, version and ip in 1 json response"
 ```
+
+# FOR CS125 STUDENTS:
+include steps on how to run your program.
