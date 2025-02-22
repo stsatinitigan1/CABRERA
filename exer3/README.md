@@ -8,8 +8,8 @@ build the following GET endpoints
 
 ```
 return data in JSON format
-/os
-/version
-/ip <- ip of requestor
-/all
+/os <-- os where api is running 'Linux / Windows etc"
+/version <- "os version eto" 
+/ip <- ip of requestor/client
+/all <- show os, version and ip in 1 json response"
 ```
