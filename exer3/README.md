@@ -16,3 +16,10 @@ return data in JSON format
 
 # FOR CS125 STUDENTS:
 include steps on how to run your program.
+
+To run the program:
+
+- To get OS, add "/os" to the URL
+- To get OS version, add "/version" to the URL
+- To get IP of requestor, add "/ip" to the URL
+- To get all three, add "/os/version/ip" to the URL
